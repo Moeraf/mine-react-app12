@@ -1,0 +1,26 @@
+.about-me .container-texts{
+    width: 35%;
+}
+
+.about-me .container-texts h5{
+    margin-bottom: 1.5rem;
+    font-size: 1.37rem;
+}
+
+p{
+    color: var(--secondaryColor);
+    letter-spacing: 1px;
+    line-height: 1.8rem;
+    font-size: 1rem;
+}
+
+.up {
+    position: fixed;
+    bottom: 20px;
+    right: -30px;
+    cursor: pointer;
+}
+
+.up.show {
+    right: 20px;
+}

@@ -1,0 +1,15 @@
+.footer .container-footer p {
+    color: var(--lightColor);
+    text-align: center;
+    width: 500px;
+    margin-top: 1rem;
+}
+
+.footer .container-footer .final {
+    color: var(--primaryColor);
+    margin-top: 1rem;
+}
+
+img {
+    cursor: pointer;
+}
